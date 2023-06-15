@@ -1,11 +1,7 @@
-## Hi there 👋
+## Traffix
 
 
 
-**Here are some ideas to get you started:**
+Traffix is a traffic monitoring project based on Video Detection System. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+We utilize AI real-time object detectors, offering cutting-edge performance in terms of accuracy and speed. Which can generate a rich array of data available and a non-intrusive installation.
